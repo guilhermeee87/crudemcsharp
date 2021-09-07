@@ -1,0 +1,16 @@
+C:\Projetos\CRUDio\bin\Debug\net5.0\CRUDio.exe
+C:\Projetos\CRUDio\bin\Debug\net5.0\CRUDio.deps.json
+C:\Projetos\CRUDio\bin\Debug\net5.0\CRUDio.runtimeconfig.json
+C:\Projetos\CRUDio\bin\Debug\net5.0\CRUDio.runtimeconfig.dev.json
+C:\Projetos\CRUDio\bin\Debug\net5.0\CRUDio.dll
+C:\Projetos\CRUDio\bin\Debug\net5.0\ref\CRUDio.dll
+C:\Projetos\CRUDio\bin\Debug\net5.0\CRUDio.pdb
+C:\Projetos\CRUDio\obj\Debug\net5.0\CRUDio.csproj.AssemblyReference.cache
+C:\Projetos\CRUDio\obj\Debug\net5.0\CRUDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CRUDio\obj\Debug\net5.0\CRUDio.AssemblyInfoInputs.cache
+C:\Projetos\CRUDio\obj\Debug\net5.0\CRUDio.AssemblyInfo.cs
+C:\Projetos\CRUDio\obj\Debug\net5.0\CRUDio.csproj.CoreCompileInputs.cache
+C:\Projetos\CRUDio\obj\Debug\net5.0\CRUDio.dll
+C:\Projetos\CRUDio\obj\Debug\net5.0\ref\CRUDio.dll
+C:\Projetos\CRUDio\obj\Debug\net5.0\CRUDio.pdb
+C:\Projetos\CRUDio\obj\Debug\net5.0\CRUDio.genruntimeconfig.cache
